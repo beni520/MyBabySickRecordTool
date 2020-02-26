@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to My Baby Sick Record Tool
 
-You can use the [editor on GitHub](https://github.com/beni520/MyBabySickRecordTool/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Have you ever encountered that when our baby was sick, we were very anxious and wanted to help our baby, but did not know what we could do for the baby. If you have had such experience and distress, this app will help you do something. You can keep track of when your baby is sick and what symptoms it is. You can also record detailed information about how many days have passed between the time when your baby was ill and the time when he was last ill, and your body temperature when you were ill. You can collect and organize this information about your baby, and provide it to your baby's doctor for review, so that the doctor can understand the baby's past illness experience in more detail, so that the baby can recover health faster.
 
-### Markdown
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We will answer them for you in the first time.
 
-```markdown
-Syntax highlighted code block
+### Address: BeatriceArlenexSgPdE@yahoo.com
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/MyBabySickRecordTool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
